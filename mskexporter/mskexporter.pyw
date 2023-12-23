@@ -7,9 +7,8 @@ For further information see https://github.com/peter88213/manuskript_md
 Published under the MIT License (https://opensource.org/licenses/mit-license.php)
 """
 import os
-from tkinter import ttk
 from tkinter import filedialog
-from tkinter import messagebox
+from tkinter import ttk
 
 import mskmd
 import pypandoc
