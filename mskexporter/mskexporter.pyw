@@ -1,5 +1,7 @@
 """A simple tkinter-based application for Manuskript data export from outsides.
 
+v0.1.1 based on the mskmd 5 API: Update the window title.
+
 Copyright (c) 2023 Peter Triesberger
 For further information see https://github.com/peter88213/manuskript_md
 Published under the MIT License (https://opensource.org/licenses/mit-license.php)
@@ -293,5 +295,5 @@ class MainTk:
 
 
 if __name__ == '__main__':
-    app = MainTk('Manuskript to Markdown converter', root_geometry='400x200')
+    app = MainTk('Manuskript exporter', root_geometry='400x200')
     app.start()
