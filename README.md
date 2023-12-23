@@ -2,6 +2,8 @@
 
 A Python application for Manuskript data export from outsides.
 
+![Screenshot](https://github.com/peter88213/manuskript-exporter/docs/screenshots/screenshot01.png)
+
 ## Features
 
 - Creates a document containing the story world descriptions. 
