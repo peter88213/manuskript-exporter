@@ -1,0 +1,6 @@
+/test/
+*.pyc
+*.bak
+.project
+.pydevproject
+
