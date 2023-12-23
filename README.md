@@ -22,9 +22,10 @@ A Python application for Manuskript data export from outsides.
 
 ## Requirements
 
-- A Python installation (version 3.6 or newer).
-- [pypandoc](https://github.com/JessicaTegner/pypandoc) installed via *PyPi*.
+- A [Python](https://www.python.org/) installation (version 3.6 or newer).
 - [mskmd.py](https://github.com/peter88213/manuskript_md) in the same directory as *manuskript-exporter.pyw*.
+- A [pandoc](https://pandoc.org/) installation.
+- [pypandoc](https://github.com/JessicaTegner/pypandoc) installed via *PyPi*.
 
 ### Note for Linux users
 
