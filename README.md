@@ -32,7 +32,7 @@ separate package named **python3-tk**.
 
 ## Download
 
-Save the file [manuskript-exporter.pyw](https://raw.githubusercontent.com/peter88213/manuskript-exporter/main/mskexporter/mskexporter.pyw).
+Save the file [mskexporter.pyw](https://raw.githubusercontent.com/peter88213/manuskript-exporter/main/mskexporter/mskexporter.pyw).
 
 ## Usage
 
