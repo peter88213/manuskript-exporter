@@ -2,7 +2,7 @@
 
 A Python application for Manuskript data export from outsides.
 
-![Screenshot](https://github.com/peter88213/manuskript-exporter/docs/screenshots/screenshot01.png)
+![Screenshot](https://raw.githubusercontent.com/peter88213/manuskript-exporter/main/docs/screenshots/screenshot01.png)
 
 ## Features
 
