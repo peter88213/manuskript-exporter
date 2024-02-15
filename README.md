@@ -1,6 +1,6 @@
 # manuskript-exporter
 
-A Python application for Manuskript data export from outsides.
+A Python application for [Manuskript](https://www.theologeek.ch/manuskript/) data export from outsides.
 
 ![Screenshot](https://raw.githubusercontent.com/peter88213/manuskript-exporter/main/docs/screenshots/screenshot01.png)
 
